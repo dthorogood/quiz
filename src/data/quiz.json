@@ -1,0 +1,364 @@
+{
+  "rounds" : [
+    {
+      "name": "Music",
+      "questions": [
+        {
+          "question": "Who won the Song of the Year Grammy in 1999 for \"My Heart Will Go On\"?",
+          "answer": "Celine Dion"
+        },
+        {
+          "question": "Which Norwegian pop band had a hit song with Take On Me?",
+          "answer": "A-Ha"
+        },
+        {
+          "question": "Which male artist performed 'Somebody To Love' at the Freddie Mercury Tribute Concert at Wembley Stadium in 1992?",
+          "answer": "George Michael"
+        },
+        {
+          "question": "Which 1994 movie did Elton John compose the soundtrack for?",
+          "answer": "The Lion King"
+        },
+        {
+          "question": "Who sang \"How Am I Supposed To Live Without You\" in 1990?",
+          "answer": "Michael Bolton"
+        },
+        {
+          "question": "What decade is the hit single \"Sultans Of Swing\" by Dire Straits from?",
+          "answer": "70s"
+        },
+        {
+          "question": "Run-DMC covered what Aerosmith song in 1986?",
+          "answer": "Walk This Way"
+        },
+        {
+          "question": "Which British 1980’s pop group took their name from a mad scientist in the movie Barbarella?",
+          "answer": "Duran Duran"
+        },
+        {
+          "question": "Which 'I Think We're Alone Now' singer gained recognition by performing at shopping malls?",
+          "answer": "Tiffany"
+        },
+        {
+          "question": "What colour shoes did David Bowie urge us to put on in 'Let's Dance'?",
+          "answer": "Red"
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "questions": [
+        {
+          "question": "What country borders Norway and Finland?",
+          "answer": "Sweden"
+        },
+        {
+          "question": "Which three colours make up the flag of Germany?",
+          "answer": "Black, red and yellow"
+        },
+        {
+          "question": "Name two American states consisting of only four letters?",
+          "answer": "Ohio, Utah, Iowa"
+        },
+        {
+          "question": "In terms of geographical area, what is the largest country in South America?",
+          "answer": "Brazil"
+        },
+        {
+          "question": "How many US states begin with the letter A?",
+          "answer": "Four – Alabama, Alaska, Arizona, Arkansas"
+        },
+        {
+          "question": "What is the longest river in the UK?",
+          "answer": "Severn"
+        },
+        {
+          "question": "What are the northern lights also known as?",
+          "answer": "Aurora Borealis"
+        },
+        {
+          "question": "The Great Barrier Reef is off the coast of which Australian state?",
+          "answer": "Queensland"
+        },
+        {
+          "question": "How long is the M1 Motorway?",
+          "answer": "193 miles"
+        },
+        {
+          "question": "What is the world's third largest ocean",
+          "answer": "Indian Ocean"
+        }
+      ]
+    },
+    {
+      "name": "Movies",
+      "questions": [
+        {
+          "question": "Which movie series features a leading character called 'Katniss Everdeen'?",
+          "answer": "The Hunger Games"
+        },
+        {
+          "question": "How many Oscars did Titanic win?",
+          "answer": "11"
+        },
+        {
+          "question": "What is the name of the actor who played Willow Ufgood?",
+          "answer": "Warwick Davis"
+        },
+        {
+          "question": "In the original 101 Dalmations, how many puppies did Perdita give birth to?",
+          "answer": "15"
+        },
+        {
+          "question": "What is the actual first name of Ben Stiller's character in 'Meet the Fockers'?",
+          "answer": "Gaylord"
+        },
+        {
+          "question": "Where is the character Borat from?",
+          "answer": "Kazakhstan"
+        },
+        {
+          "question": "In which \"Batman\" film did Jim Carrey star as the Riddler?",
+          "answer": "Batman Forever"
+        },
+        {
+          "question": "What is the name of the hotel in \"The Shining\"?",
+          "answer": "The Overlook"
+        },
+        {
+          "question": "What was Bruce Willis' character's name is \"Die Hard\"?",
+          "answer": "John McClane"
+        },
+        {
+          "question": "What is Dr. Evil's son's name from the \"Austin Powers\" movies?",
+          "answer": "Scott"
+        }
+      ]
+    },
+    {
+      "name": "Musical First Names",
+      "questions": [
+        {
+          "question": "John, Paul, George, Ringo",
+          "answer": "The Beatles"
+        },
+        {
+          "question": "Roger, Pete, Keith and John",
+          "answer": "The Who"
+        },
+        {
+          "question": "Axl, Slash, Izzy, Duff and Steven",
+          "answer": "Guns N' Roses"
+        },
+        {
+          "question": "Syd, Nick, Roger and Richard",
+          "answer": "Pink Floyd"
+        },
+        {
+          "question": "Freddie, Brian, Roger and John",
+          "answer": "Queen"
+        },
+        {
+          "question": "Tony, Geezer, Ozzy and Bill",
+          "answer": "Black Sabbath"
+        },
+        {
+          "question": "Mel, Geri, Victoria, Mel and Emma",
+          "answer": "Spice Girls"
+        },
+        {
+          "question": "Chris, Will, Jonny, Guy and Phil",
+          "answer": "Coldplay"
+        },
+        {
+          "question": "John, Tico, Richie, Alec and David",
+          "answer": "Bon Jovi"
+        },
+        {
+          "question": "AJ, Howie, Nick, Kevin and Brian",
+          "answer": "Backstreet Boys"
+        }
+      ]
+    },
+    {
+      "name": "Dead Celebrities",
+      "questions": [
+        {
+          "question": "Richie Valance",
+          "answer": "Plane crash"
+        },
+        {
+          "question": "Tupac",
+          "answer": "Murdered (shot)"
+        },
+        {
+          "question": "Whitney Houston",
+          "answer": "Drowned"
+        },
+        {
+          "question": "John Prine",
+          "answer": "Coronavirus "
+        },
+        {
+          "question": "Steve Irwin",
+          "answer": "Stingray"
+        },
+        {
+          "question": "John Denver",
+          "answer": "Experimental plane crash"
+        },
+        {
+          "question": "Bob Ross",
+          "answer": "Cancer"
+        },
+        {
+          "question": "Mama Cass (Cass Elliot)",
+          "answer": "Heart Attack (Ham sandwich)"
+        },
+        {
+          "question": "Harry Houdini",
+          "answer": "Appendicitis"
+        },
+        {
+          "question": "Amy Winehouse",
+          "answer": "Alcohol intoxication"
+        }
+      ]
+    },
+    {
+      "name": "Movie Mashups",
+      "questions": [
+        {
+          "question": "Simba returns to the Pridelands to discover they have been taken over by an enormous gorilla",
+          "answer": "The Lion King Kong"
+        },
+        {
+          "question": "Jason Statham, The Rock, Morgan Freeman and Tim Robins all break out of prison together with explosions in this movie",
+          "answer": "Hobbs & Shawshank Redemption"
+        },
+        {
+          "question": "Woody and Buzz Lightyear take their latest adventure to England with Andie MacDowell and Hugh Grant with lots of happiness, love and some death",
+          "answer": "Toy Story 4 Weddings & a Funeral"
+        },
+        {
+          "question": "Peter Parker goes on a class trip to Italy, but has to leave early to help find Shadow, Chance and Sassy after they were lost in the wilderness",
+          "answer": "Spider Man Far From Homeward Bound"
+        },
+        {
+          "question": "Sarah Connor is back, but this time she is joined by Dom and the gang on their 8th adventure",
+          "answer": "Terminator Dark Fate of the Furious"
+        },
+        {
+          "question": "Will Smith escapes a murderous clone of himself in order to help Andy Kaufman deal with his cancer diagnosis",
+          "answer": "Gemini Man on the Moon"
+        },
+        {
+          "question": "The mighty Godzilla, Mothra and Rodan settle their differences and team up with Sully and Mike Wazowski to scare children and collect their screams",
+          "answer": "Godzilla King of the Monsters Inc."
+        },
+        {
+          "question": "After solving the mystery of who killed Christopher Plumber, Daniel Craig  and Chris Evans help Dustin Hoffman and Cuba Gooding Jr prevent a deadly pandemic",
+          "answer": "Knives Outbreak"
+        },
+        {
+          "question": "After Pennywise the Dancing Clown's second adventure ends, he finds a mysterious artifact buried beneath the Lunar surface, and sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000",
+          "answer": "It Chapter 2001 A Space Odyssey"
+        },
+        {
+          "question": "The sequel to The Shining has a happy ending when Tom Hanks and Meg Ryan finally meet at the Empire State Building.",
+          "answer": "Doctor Sleepless in Seattle"
+        }
+      ]
+    },
+    {
+      "name": "Religion",
+      "questions": [
+        {
+          "question": "What, in the Christian church, occurs 49 days before Whitsunday and 40 days after Shrove Tuesday",
+          "answer": "Easter"
+        },
+        {
+          "question": "Which book of the Bible comes after Acts?",
+          "answer": "Romans"
+        },
+        {
+          "question": "In which religion the Gods Brahma, Vishnu and Siva are worshipped?",
+          "answer": "Hindu"
+        },
+        {
+          "question": "Who is the Patron Saint of children?",
+          "answer": "Saint Nicholas"
+        },
+        {
+          "question": "What is the name of the Mountain that Noah’s Ark rest on after the flood?",
+          "answer": "Ararat"
+        },
+        {
+          "question": "What is Confucianism’s golden rule?",
+          "answer": "Do not impose on others what you do not wish for yourself."
+        },
+        {
+          "question": "What are the first five book of the Bible?",
+          "answer": "Genesis, Exodus, Leviticus, Numbers, Deuteronomy."
+        },
+        {
+          "question": "What name is given to food prepared in accordance with Jewish ritual?",
+          "answer": "Kosher"
+        },
+        {
+          "question": "How many times does a Muslim pray in a day?",
+          "answer": "5"
+        },
+        {
+          "question": "What was matthew before he became a disciple?<br/>A) Fisherman<br/>B) Tax collector<br/>C) Shepherd<br/>D) Farmer",
+          "answer": "Tax collector"
+        }
+      ]
+    },
+    {
+      "name": "Science",
+      "questions": [
+        {
+          "question": "How did Alexander Graham Bell like to answer the telephone?",
+          "answer": "Ahoy-hoy"
+        },
+        {
+          "question": "What must a meteor do in order to become a meteorite?",
+          "answer": "Hit The Earth's Surface"
+        },
+        {
+          "question": "What general name is also given to natural satellites?",
+          "answer": "Moon"
+        },
+        {
+          "question": "What is the boiling point of water in fahrenheit?",
+          "answer": "212°F"
+        },
+        {
+          "question": "What does a Turing test measure?",
+          "answer": "Whether or not a computer is capable of thinking like a human being"
+        },
+        {
+          "question": "How much would a 10 stone person weigh at the center of the earth?",
+          "answer": "Nothing"
+        },
+        {
+          "question": "How long does Mercury take to revolve around the sun?",
+          "answer": "88 Earth Days"
+        },
+        {
+          "question": "What is the most abundant element in the known universe?",
+          "answer": "Hydrogen"
+        },
+        {
+          "question": "According to Moore's law, what happens to the number of transistors in a dense integrated circuit every two years?",
+          "answer": "It doubles"
+        },
+        {
+          "question": "About how long is the human small intestine?",
+          "answer": "18 feet"
+        }
+      ]
+    }
+  ]
+}
